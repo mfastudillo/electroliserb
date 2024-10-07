@@ -1,0 +1,24 @@
+{
+  "template": "git@github.com:brightway-lca/cookiecutter-brightwaylib.git",
+  "commit": "dc0764a425dd99c849c6f749c4a6f07b37f0208c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Miguel F. Astudillo",
+      "email": "miguel@astudillo.com",
+      "github_username": "mfastudillo",
+      "project_name": "electroliserb",
+      "package_name": "electroliserb",
+      "project_short_description": "this is a model of an electroliser",
+      "version": "0.0.1",
+      "use_pytest": "y",
+      "open_source_license": "MIT",
+      "copyright_year": "2024",
+      "_copy_without_render": [
+        ".github/*"
+      ],
+      "_template": "git@github.com:brightway-lca/cookiecutter-brightwaylib.git"
+    }
+  },
+  "directory": null
+}
